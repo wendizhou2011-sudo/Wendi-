@@ -10,9 +10,6 @@ An intelligent assistant designed for a fictional Chinese domestic airline to id
 - **Traceability**: All assessments traceable to data sources with clear distinction between known facts, assumptions, and unknown information
 - **Human-AI Collaboration**: Critical decisions require human approval; respects professional judgment
 
-## Demo
-
-A live demo is available at: [Streamlit Cloud URL] (to be deployed)
 
 ## Quick Start
 
